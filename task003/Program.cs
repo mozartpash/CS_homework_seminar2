@@ -24,4 +24,3 @@ void Holiday(int num)
 Console.WriteLine("Вветите номер дня недели (от 1 до 7): ");
 int number = int.Parse(Console.ReadLine()!);
 Holiday(number);
-
